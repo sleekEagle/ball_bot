@@ -1,0 +1,2 @@
+ballbot
+-DCATKIN_DEVEL_PREFIX=/home/sleek_eagle/research/ros/ball_bot/devel -DCMAKE_INSTALL_PREFIX=/home/sleek_eagle/research/ros/ball_bot/install -G Unix Makefiles

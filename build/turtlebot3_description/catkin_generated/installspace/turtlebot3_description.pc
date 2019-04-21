@@ -1,0 +1,8 @@
+prefix=/home/sleek_eagle/research/ros/ball_bot/install
+
+Name: turtlebot3_description
+Description: Description of turtlebot3_description
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/sleek_eagle/research/ros/ball_bot/install/lib 
+Requires: urdf xacro

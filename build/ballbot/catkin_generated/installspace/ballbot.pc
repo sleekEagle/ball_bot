@@ -1,0 +1,8 @@
+prefix=/home/sleek_eagle/research/ros/ball_bot/install
+
+Name: ballbot
+Description: Description of ballbot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sleek_eagle/research/ros/ball_bot/install/lib 
+Requires: 
